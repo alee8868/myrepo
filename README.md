@@ -1,2 +1,2 @@
 # myrepo
-This repository is again for practice
+Repository for testing my Git/GitHub setup
